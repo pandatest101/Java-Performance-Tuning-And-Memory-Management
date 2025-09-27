@@ -29,3 +29,4 @@ bin/
 .DS_Store
 .idea
 Runtime_Data_Areas.iml
+*.jar
