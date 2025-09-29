@@ -1,10 +1,10 @@
-package com.art.warmup.jit.accounts;
+package com.art.warmup.jit.statements;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AccountsApplicationTests {
+class StatementsApplicationTests {
 
 	@Test
 	void contextLoads() {

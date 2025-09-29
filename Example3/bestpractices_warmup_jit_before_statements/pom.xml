@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.art.warmup.jit</groupId>
-	<artifactId>accounts</artifactId>
+	<artifactId>statements</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>accounts</name>
-	<description>Example for warmup JIT compiler</description>
+	<name>statements</name>
+	<description>Example for Optimize and warmup JIT compiler </description>
 	<url/>
 	<licenses>
 		<license/>

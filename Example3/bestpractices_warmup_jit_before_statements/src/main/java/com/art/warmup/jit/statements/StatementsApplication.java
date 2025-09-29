@@ -1,13 +1,13 @@
-package com.art.warmup.jit.accounts;
+package com.art.warmup.jit.statements;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AccountsApplication {
+public class StatementsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AccountsApplication.class, args);
+		SpringApplication.run(StatementsApplication.class, args);
 	}
 
 }
