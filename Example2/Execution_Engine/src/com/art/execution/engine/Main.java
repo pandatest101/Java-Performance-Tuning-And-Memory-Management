@@ -3,7 +3,7 @@ package com.art.execution.engine;
 public class Main {
     public static void main(String[] args) {
         int iterations = 100;
-        int matrixSize = 500;
+        int matrixSize = 100;
 
         MatrixMultiplication matrix = new MatrixMultiplication();
         double[][] a = matrix.createMatrix(matrixSize);
