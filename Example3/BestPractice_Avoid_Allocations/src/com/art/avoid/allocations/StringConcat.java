@@ -4,7 +4,7 @@ public class StringConcat {
     public String concatPlus(int n) {
         String s = "";
         for (int i = 0; i < n; i++) {
-            s = s + i; // สร้าง String ใหม่ตลอด (ช้ามาก)
+            s = s + i;
         }
         return s;
     }
